@@ -1,1 +1,1 @@
-bom dispatchEvent
+bom dia
